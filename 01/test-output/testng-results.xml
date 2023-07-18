@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-18T06:56:49Z" name="Default suite" finished-at="2023-07-18T06:57:03Z" duration-ms="13889">
+    <groups>
+    </groups>
+    <test started-at="2023-07-18T06:56:49Z" name="Default test" finished-at="2023-07-18T06:57:03Z" duration-ms="13889">
+      <class name="hash_Test.HashtagTEST">
+        <test-method is-config="true" signature="Beforeclass()[pri:0, instance:hash_Test.HashtagTEST@49c66ade]" started-at="2023-07-18T12:26:49Z" name="Beforeclass" finished-at="2023-07-18T12:27:00Z" duration-ms="11129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeclass -->
+        <test-method signature="Test()[pri:0, instance:hash_Test.HashtagTEST@49c66ade]" started-at="2023-07-18T12:27:00Z" name="Test" finished-at="2023-07-18T12:27:03Z" duration-ms="2682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- hash_Test.HashtagTEST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
